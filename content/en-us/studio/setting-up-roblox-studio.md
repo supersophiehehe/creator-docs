@@ -1,5 +1,5 @@
 ---
-title: Setting Up Roblox Studio
+title: the lorax!
 description: Explains how to install Roblox Studio on your system.
 ---
 
